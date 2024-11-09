@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio ( vitrine )
 Ce petit project a pour bute de recre en html/css le site si desous 
 
 ![plot](./Home_Page.png)
