@@ -49,7 +49,3 @@ Pour personnaliser ce portfolio :
 
 - Modifiez le contenu du fichier `index.html` pour y ajouter vos propres informations, compétences et projets.
 - Adaptez les styles dans `style.css` selon vos préférences en termes de couleurs, typographies, et mises en page.
-
-## 📬 Contact
-
-Si vous avez des questions, des suggestions ou souhaitez me contacter, n'hésitez pas à me joindre via [votre_email@exemple.com](mailto:votre_email@exemple.com) ou via mes réseaux sociaux listés dans la section Contact de ce portfolio.
