@@ -88,12 +88,11 @@ h1.titre{
 
 .header_titre_img{
     padding-top: 20vh;
-    padding-left: 10vh;
     display: flex;
     flex-direction: row;
     
     align-items: top;
-    justify-content: left;
+    justify-content: space-around;
 }
 
 .header_titre>h1{
@@ -110,7 +109,6 @@ h1.titre{
 
 .first_img{
     padding-left: 10vh;
-    height: 80vh;
     transform: translateY(-10%);
 }
 
@@ -139,7 +137,15 @@ button > * {
 
 /* Variante de bouton inversé */
 .rever {
+    padding-right: 2.5em;
     background-color: var(--bg-color-sp);
     border: 0;
+}
+
+.f1{
+    padding: 1.5em 1em;
+    transform: rotate(-10deg);
+    height: 17em;
+    rotate: 10;
 }
 
