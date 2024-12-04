@@ -85,6 +85,11 @@ h1.titre{
     font-size: 10vh;
     line-height: 1;
 }
+h2.titre{
+    font-weight: 800;
+    font-size: 8vh;
+    line-height: 1;
+}
 
 .header_titre_img{
     padding-top: 20vh;
@@ -147,5 +152,9 @@ button > * {
     transform: rotate(-10deg);
     height: 17em;
     rotate: 10;
+}
+
+.chepas{
+    max-width: 40%;
 }
 
